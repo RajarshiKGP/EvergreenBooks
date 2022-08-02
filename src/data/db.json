@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "image": "./Books/SH.jpg",
+        "Name": "Sherlock Holmes",
+        "Author": "Arthur Conan Doyle",
+        "Genre": "Detective Story",
+        "Price": 800,
+        "Date_of_Printing": "16/07/2019"
+    },
+    {
+        "id": 2,
+        "image": "./Books/TBC.jpg",
+        "Name": "The Black Cat",
+        "Author": "Edgar Allan Poe",
+        "Genre": "Detective Story",
+        "Price": 510,
+        "Date_of_Printing": "05/04/2021"
+    },
+    {
+        "id": 3,
+        "image": "./Books/THOHH.jpg",
+        "Name": "The Haunting of Hill House",
+        "Author": "Shirley Jackson",
+        "Genre": "Horror Story",
+        "Price": 699,
+        "Date_of_Printing": "14/05/2022"
+    },
+    {
+        "id": 4,
+        "image": "./Books/F.jpg",
+        "Name": "Frankenstein",
+        "Author": "Mary Shelley",
+        "Genre": "Horror Story",
+        "Price": 599,
+        "Date_of_Printing": "08/01/2019"
+    },
+    {
+        "id": 5,
+        "image": "./Books/TS.jpg",
+        "Name": "The Sonnets",
+        "Author": "William Shakespeare",
+        "Genre": "Romantic Poem",
+        "Price": 560,
+        "Date_of_Printing": "26/02/2017"
+    },
+    {
+        "id": 6,
+        "image": "./Books/LOM.jpg",
+        "Name": "Life on Mars",
+        "Author": "Tracy K. Smith",
+        "Genre": "Romantic Poem",
+        "Price": 800,
+        "Date_of_Printing": "02/09/2020"
+    },
+    {
+        "id": 7,
+        "image": "./Books/FIOS.jpg",
+        "Name": "The Fault in Our Stars",
+        "Author": "John Green",
+        "Genre": "Romantic Story",
+        "Price": 770,
+        "Date_of_Printing": "16/04/2020"
+    },
+    {
+        "id": 8,
+        "image": "./Books/TTB.jpg",
+        "Name": "The Thorn Birds",
+        "Author": "Colleen McCullough",
+        "Genre": "Romantic Story",
+        "Price": 1024,
+        "Date_of_Printing": "03/02/2018"
+    },
+    {
+        "id": 9,
+        "image": "./Books/LUC.jpg",
+        "Name": "Let Us C",
+        "Author": "Yashavant Kanetkar",
+        "Genre": "Text Book (Engineering)",
+        "Price": 799,
+        "Date_of_Printing": "18/12/2018"
+    },
+    {
+        "id": 10,
+        "image": "./Books/APC.jpg",
+        "Name": "ATKINS' PHYSICAL CHEMISTRY",
+        "Author": "Peter Atkins",
+        "Genre": "Text Book (Engineering)",
+        "Price": 899,
+        "Date_of_Printing": "02/08/2020"
+    },
+    {
+        "id": 11,
+        "image": "./Books/TSOS.jpg",
+        "Name": "Outliers: The Story of Success",
+        "Author": "Malcolm Gladwell",
+        "Genre": "Text Book (Commerce)",
+        "Price": 780,
+        "Date_of_Printing": "10/01/2021"
+    },
+    {
+        "id": 12,
+        "image": "./Books/RDPD.jpg",
+        "Name": "Rich dad poor dad",
+        "Author": "Robert T. Kiyosaki",
+        "Genre": "Text Book (Commerce)",
+        "Price": 600,
+        "Date_of_Printing": "05/07/2017"
+    },
+    {
+        "id": 13,
+        "image": "./Books/R.jpg",
+        "Name": "Ramayana",
+        "Author": "Valmiki",
+        "Genre": "Mythology",
+        "Price": 1199,
+        "Date_of_Printing": "29/06/2022"
+    },
+    {
+        "id": 14,
+        "image": "./Books/M.jpg",
+        "Name": "Mahabharata",
+        "Author": "Vyasa",
+        "Genre": "Mythology",
+        "Price": 940,
+        "Date_of_Printing": "26/01/2022"
+    },
+    {
+        "id": 15,
+        "image": "./Books/ABHOT.jpg",
+        "Name": "A Brief History of Time",
+        "Author": "Stephen Hawking",
+        "Genre": "Science",
+        "Price": 669,
+        "Date_of_Printing": "12/09/2017"
+    },
+    {
+        "id": 16,
+        "image": "./Books/PW.jpg",
+        "Name": "Parallel Worlds",
+        "Author": "Michio Kaku",
+        "Genre": "Science",
+        "Price": 699,
+        "Date_of_Printing": "07/10/2016"
+    },
+    {
+        "id": 17,
+        "image": "./Books/SJ.jpg",
+        "Name": "Steve Jobs",
+        "Author": "Walter Isaacson",
+        "Genre": "Technology",
+        "Price": 2000,
+        "Date_of_Printing": "16/05/2017"
+    },
+    {
+        "id": 18,
+        "image": "./Books/GITW.jpg",
+        "Name": "Ghost in the Wires",
+        "Author": "Kevin D. Mitnick",
+        "Genre": "Technology",
+        "Price": 1299,
+        "Date_of_Printing": "21/07/2020"
+    },
+    {
+        "id": 19,
+        "image": "./Books/TMP.jpg",
+        "Name": "The Modern Poster",
+        "Author": "Arsene Alexandre",
+        "Genre": "Art & Literature",
+        "Price": 999,
+        "Date_of_Printing": "31/03/2019"
+    },
+    {
+        "id": 20,
+        "image": "./Books/G.jpg",
+        "Name": "Gitanjali",
+        "Author": "Rabindranath Tagore",
+        "Genre": "Art & Literature",
+        "Price": 780,
+        "Date_of_Printing": "17/11/2021"
+    }
+]

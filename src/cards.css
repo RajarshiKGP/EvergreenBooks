@@ -1,0 +1,15 @@
+.album .col a {
+    text-align: center;
+    background-color: rgba(240, 248, 255, 0.755);
+    position: absolute;
+    top: 50%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+
+.cls {
+    font-size: 25px;
+    font-weight: bolder;
+}
